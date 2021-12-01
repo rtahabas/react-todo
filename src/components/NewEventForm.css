@@ -1,0 +1,10 @@
+.new-event-form label,
+.new-event-form input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    width: 100%;
+    font-size: 1.1em;
+    
+}
